@@ -1,0 +1,16 @@
+{
+  "name": "hunts-airtable-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.5.6",
+    "express": "^4.16.3"
+  },
+  "entry point": "index.js"
+}
