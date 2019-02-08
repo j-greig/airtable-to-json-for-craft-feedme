@@ -12,5 +12,8 @@
     "airtable": "^0.5.6",
     "express": "^4.16.3"
   },
+  "devDependencies": {
+    "cryptiles": ">=4.1.2"
+  },
   "entry point": "index.js"
 }
