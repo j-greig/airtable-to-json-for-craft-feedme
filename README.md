@@ -37,3 +37,7 @@ The terminal output should be something like this...
    ]
 }
 ```
+
+## Todo
+[ ] Move API creds to .env file
+[ ] Store the JSON terminal output in a file that FeedMe can read
